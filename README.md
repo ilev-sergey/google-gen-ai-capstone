@@ -1,5 +1,7 @@
 # Playbill AI
 
+This repository is a сapstone project within the [Google Generative AI intensive course](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1/home).
+
 # Use Case
 
 Gen AI model (Gemini 2.0 flash) is used as a part of the service for aggregation of theater playbills.
@@ -27,4 +29,4 @@ The project combines such AI capabilities as
 
 # Future
 
-The developed solution will be used in conjunction with developing API for theatres (link will be provided later) as a part of aggregation service deployed both as a web-application and as telegram bot
+The developed solution will be used in conjunction with developing API for theatres (link will be provided later) as a part of aggregation service deployed both as a web-application and as telegram bot.
